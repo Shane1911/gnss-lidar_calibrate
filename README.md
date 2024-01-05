@@ -3,7 +3,7 @@ calibrateHandEye，AX=BX, interior point way
 
 THIS SCRIPT IS USING IN CALI THE GNSS/LIDAR INSTATION PARAMENTERS.
 
-AUTHER: xiecong
+AUTHER: shane
 
 DATE:2022.12.20
 
